@@ -1,0 +1,1 @@
+.wrapper{display:grid;grid-template-columns:repeat(4,1fr);width:500px}.wrapper div{border:2px solid rgba(13,92,240,.26);height:120px}
