@@ -12,6 +12,8 @@
         "sourceType": "module"
     },
     "rules": {
+        "no-unused-vars": "off",
+        "no-use-before-define": "off",
         "no-restricted-syntax": [
             "error",
             "LabeledStatement",
