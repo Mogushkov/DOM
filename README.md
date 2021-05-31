@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6ham4xe8tx8h0tfj?svg=true)](https://ci.appveyor.com/project/Mogushkov/dom-4rj60)
 
 Правила сдачи задания:
 
