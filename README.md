@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/6ham4xe8tx8h0tfj?svg=true)](https://ci.appveyor.com/project/Mogushkov/dom-4rj60)
 
+[![Goblin] (https://mogushkov.github.io/DOM/)]
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
