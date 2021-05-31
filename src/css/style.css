@@ -1,0 +1,9 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 500px;
+}
+.wrapper div {
+    height: 120px;
+    border: 2px solid rgba(13, 92, 240, 0.26);
+}
